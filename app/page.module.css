@@ -90,5 +90,60 @@
 
 .section p {
   text-align: justify;
-  margin: 2rem;
+  margin: 0 2rem 2rem 2rem;
+}
+
+@media (max-width: 1024px) {
+  .hero h1 {
+    font-size: 3rem;
+  }
+
+  .hero p {
+    font-size: 1.2rem;
+  }
+
+  .section p {
+    margin: 1rem;
+    font-size: 1rem;
+  }
+
+  .cta {
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .slideshow {
+    width: 20rem;
+    height: 10rem;
+  }
+
+  .cta a {
+    width: 80%;
+    text-align: center;
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero h1 {
+    font-size: 2.5rem;
+  }
+
+  .hero p {
+    font-size: 1.3rem;
+  }
+
+  .cta a {
+    width: 100%;
+    padding: 0.75rem;
+  }
 }

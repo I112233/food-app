@@ -33,12 +33,12 @@ export default function Home() {
         </section>
 
         <section className={classes.section}>
-          <h2 style={{ width: "77.5%" }}>Why ProFood?</h2>
-          <p style={{ marginLeft: "1rem", width: "77.5%" }}>
+          <h2>Why ProFood?</h2>
+          <p>
             ProFood is an authorized website for foodies, reviewed by them all over the world. It&apos;s a place to discover new dishes,
             and connect with other food lovers.
           </p>
-          <p style={{ marginLeft: "1rem", width: "77.5%" }}>
+          <p>
             It has the best collection of high-quality food you can find on the web.
           </p>
         </section>

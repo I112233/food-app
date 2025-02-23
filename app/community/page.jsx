@@ -12,7 +12,7 @@ export default function CommunityPage() {
         <h1>
           One shared passion: <span className={classes.highlight}>Food</span>
         </h1>
-        <p>Join our community and share your favorite recipes!</p>
+        <p> our community and share your favorite recipes!</p>
       </header>
       <main className={classes.main}>
         <h2>Community Perks</h2>

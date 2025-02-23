@@ -26,7 +26,7 @@ function MainHeader() {
         <nav className={classes.nav}>
           <ul>
             <li>
-              <NavLink href="/meals">BROWSE MEALS</NavLink>
+              <NavLink href="/meals">MEALS</NavLink>
             </li>
 
             <li>
