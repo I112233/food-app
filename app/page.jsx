@@ -28,7 +28,7 @@ export default function Home() {
             recipes with the world. It lets you upload dishes and recipes of your own in the browse meals area.
           </p>
           <p>
-            Don't forget to also upload a photo to show everyone how beautiful your dish is.
+            Don&apos;t forget to also upload a photo to show everyone how beautiful your dish is.
           </p>
         </section>
 
